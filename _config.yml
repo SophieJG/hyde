@@ -7,15 +7,15 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
+title:            Sophie Greenwood
+tagline:          'Personal Website'
+description:      'PhD Student @ Cornell'
+url:              
+baseurl:          https://sophiejg.github.io/
 
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+# author:
+#   name:           'Sophie Greenwood (edited from Hyde by Mark Otto)'
+#   url:            https://twitter.com/s_j_greenwood
 
 plugins:          [jekyll-paginate]
 paginate:         5
@@ -24,5 +24,5 @@ paginate_path:    "page:num"
 # Custom vars
 version:          2.1.0
 
-github:
-  repo:           https://github.com/poole/hyde
+# github:
+#   repo:           https://github.com/poole/hyde

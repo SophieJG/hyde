@@ -1,37 +1,16 @@
 ---
 layout: post
-title: Introducing Hyde
+title: Hi
 ---
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+### Bio
 
-### Built on Poole
+Hi! I'm a first-year PhD student in computer science at Cornell University, where I'm privileged to work with Nikhil Garg and Jon Kleinberg. 
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
+I graduated from the University of British Columbia (UBC) in 2023 with a bachelor's degree in math and computer science. At UBC, I had the opportunity to do a summer research project in high-dimensional probability with Yaniv Plan and Ozgur Yilmaz, and later worked with Kevin Leyton-Brown and James R. Wright developing axioms for loss functions in behavioral game theory.
 
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+### Contact
 
-### Hyde features
-
-In addition to the features of Poole, Hyde adds the following:
-
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/hyde#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/hyde#themes), available via `<body>` classes
-
-[Head to the readme](https://github.com/poole/hyde#readme) to learn more.
-
-### Browser support
-
-Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
-
-### Download
-
-Hyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/hyde">GitHub repository</a> for downloads, bug reports, and features requests.
-
-Thanks!
+* Email: sjgreenwood <em>at</em> cs <em>dot</em> cornell <em>dot</em> edu
+* [GitHub](https://github.com/SophieJG)
+* [LinkedIn](https://ca.linkedin.com/in/sophie-greenwood-1a7092195)

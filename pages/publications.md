@@ -5,8 +5,10 @@ title: Publications
 
 ## Conference papers
 
-<dl>
-  <dt>Loss Functions for Behavioral Game Theory</dt>
-  <dd>Greg d'Eon, <strong>SG</strong>, Kevin Leyton-Brown, and James R. Wright.</dd>
-  <dd>Accepted at AAAI 2024. <a href="https://arxiv.org/abs/2306.04778" target="_blank">[arxiv]</a></dd>
-</dl>
+<ul>
+  <li class="paper">
+    <b>How to evaluate behavioral models</b> [<a href="https://arxiv.org/abs/2306.04778" target="_blank">arxiv</a> | <a href="https://doi.org/10.1609/aaai.v38i9.28820" target="_blank">official link</a>]<br>
+    Greg d'Eon, Sophie Greenwood, Kevin Leyton-Brown, and James R. Wright.<br>
+    Accepted at AAAI 2024.
+  </li>
+</ul>

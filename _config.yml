@@ -10,7 +10,7 @@ permalink:        pretty
 title:            Sophie Greenwood
 tagline:          'Personal Website'
 description:      'PhD Student @ Cornell'
-url:              https://sophiejg.github.io/ #localhost:4000/
+url:              https://sophiejg.github.io
 baseurl:          / 
 
 # author:

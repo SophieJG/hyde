@@ -3,7 +3,7 @@ layout: post
 title: Bio
 ---
 
-Hi! I'm a second-year PhD student in computer science at Cornell University, where I'm privileged to work with [Nikhil Garg](https://gargnikhil.com/) and [Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/). 
+Hi! I'm a first-year PhD student in computer science at Cornell University, where I'm privileged to work with Nikhil Garg and Jon Kleinberg. 
 
 I am broadly interested in topics at the intersection of computer science and economics / social science; my recent focus has been on understanding how factors such as human behavior, interpretability, and fairness affect the use and design of algorithmic systems.
 

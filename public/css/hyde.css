@@ -186,6 +186,10 @@ a.sidebar-nav-item:focus {
   color: #6a817a;
 }
 
+.theme-base-08 .page-title .post-title a {
+  color: #32433d
+}
+
 /* Orange */
 .theme-base-09 .sidebar {
   background-color: #d28445;

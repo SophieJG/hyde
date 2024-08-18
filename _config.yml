@@ -10,8 +10,8 @@ permalink:        pretty
 title:            Sophie Greenwood
 tagline:          'Personal Website'
 description:      'PhD Student @ Cornell'
-url:              https://sophiejg.github.io
-baseurl:          / 
+url:             
+baseurl:          https://sophiejg.github.io/ 
 
 # author:
 #   name:           'Sophie Greenwood (edited from Hyde by Mark Otto)'
